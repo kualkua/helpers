@@ -1,0 +1,4 @@
+start rabbitmq on mac
+  brew services start rabbitmq
+  
+  http://localhost:15672 quest guest
